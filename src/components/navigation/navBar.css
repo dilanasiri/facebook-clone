@@ -1,14 +1,17 @@
 .navBarBox{
     height: 50px;
     width: 100%;
-    background-color: #3b5998;
+    background-color: #1877f2;
     display: flex;
     align-items: center;
     position: sticky;
     top: 0;
+    font-family: Helvetica, Arial, sans-serif;
+
 }
 .navBarLeft{
     flex: 3;
+
 }
 .navBarCenter{
     flex: 5;
@@ -29,6 +32,9 @@
 .navBarIcon{
     margin-left: 10px;
 }
+.navBarIcon:hover{
+    cursor: pointer;
+}
 .navBarLinks{
     margin-left: 10px;
     font-size: 20px;
@@ -44,8 +50,11 @@
     object-fit: cover;
     border-radius: 50%;
     margin-left: 50px;
-
 }
+.profilePic:hover{
+    cursor: pointer;
+}
+
 .iconTag{
     width: 15px;
     height: 15px;
