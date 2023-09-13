@@ -3,6 +3,8 @@
     height: calc(100vh - 50px);
     overflow: scroll;
     font-family: Helvetica, Arial, sans-serif;
+    position: sticky;
+    top: 50px;
 }
 ::-webkit-scrollbar{
     width: 5px;
