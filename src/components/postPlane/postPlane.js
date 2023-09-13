@@ -1,8 +1,11 @@
 import React from "react";
 import "./postPlane.css"
+import AddPost from "../addPost/addPost"
 
 export default function postPlane(){
     return (
-        <div className="postPlaneBox">Post plane </div>
+        <div className="postPlaneBox">
+            <AddPost/>
+        </div>
     )
 }
