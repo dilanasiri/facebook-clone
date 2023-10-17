@@ -14,4 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+###This is the user interface.
+# <img src="src/pulic/images/ui.png" alt="drawing" width="250"/>
+
 ### Copyright © 2023 Dilan Asiri. All Rights Reserved.
